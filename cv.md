@@ -1,8 +1,8 @@
  # RS School CV
 ---
 ## General info
-### _Hello, my name is Rokas G👋
-* My main task is to become a frond - end developer
+### _Hello, my name is Rokas G
+* My main task is to become a front - end developer
 
 ## Contact info
 - grrokass@gmail.com
