@@ -13,7 +13,6 @@
 * __HTML__ / __CSS__ 
 * __JavaScript_
 
-
 ## Hobbies
 - basketball
 - travellning
