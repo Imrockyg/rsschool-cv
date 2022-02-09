@@ -11,7 +11,7 @@
 
 ## Skills:
 * __HTML__ / __CSS__ 
-* __JavaScript__ 
+* __JavaScript_
 
 
 ## Hobbies
